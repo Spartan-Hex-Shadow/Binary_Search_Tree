@@ -1,0 +1,62 @@
+This tree starts with Node [word=a, frequency=7] and has 22 nodes
+This tree starts with Node [word=be, frequency=7] and has 12 nodes
+This tree starts with Node [word=Contributors, frequency=2] and has 18 nodes
+This tree starts with Node [word=Donate, frequency=1] and has 16 nodes
+This tree starts with Node [word=eliminate, frequency=1] and has 8 nodes
+This tree starts with Node [word=following, frequency=1] and has 14 nodes
+This tree starts with Node [word=GPLv, frequency=1] and has 4 nodes
+This tree starts with Node [word=httpexamplecom, frequency=1] and has 11 nodes
+This tree starts with Node [word=is, frequency=19] and has 16 nodes
+This tree starts with Node [word=just, frequency=1] and has 3 nodes
+This tree starts with  and has 0 nodes
+This tree starts with Node [word=list, frequency=5] and has 12 nodes
+This tree starts with Node [word=more, frequency=3] and has 11 nodes
+This tree starts with Node [word=Name, frequency=1] and has 10 nodes
+This tree starts with Node [word=of, frequency=10] and has 12 nodes
+This tree starts with Node [word=Plugin, frequency=1] and has 17 nodes
+This tree starts with Node [word=Questions, frequency=1] and has 2 nodes
+This tree starts with Node [word=Requires, frequency=2] and has 7 nodes
+This tree starts with Node [word=should, frequency=5] and has 33 nodes
+This tree starts with Node [word=this, frequency=4] and has 30 nodes
+This tree starts with Node [word=userids, frequency=1] and has 13 nodes
+This tree starts with Node [word=version, frequency=8] and has 3 nodes
+This tree starts with Node [word=wordpressorg, frequency=1] and has 15 nodes
+This tree starts with  and has 0 nodes
+This tree starts with Node [word=you, frequency=6] and has 5 nodes
+This tree starts with  and has 0 nodes
+Node [word=Tags, frequency=2]
+Node [word=Tested, frequency=2]
+Node [word=This, frequency=7]
+Node [word=Thus, frequency=1]
+Node [word=Titles, frequency=1]
+Node [word=tag, frequency=8]
+Node [word=tags, frequency=2]
+Node [word=tagsreadmetxt, frequency=1]
+Node [word=tagsscreenshotpng, frequency=1]
+Node [word=take, frequency=1]
+Node [word=taken, frequency=1]
+Node [word=templates, frequency=1]
+Node [word=test, frequency=1]
+Node [word=than, frequency=2]
+Node [word=that, frequency=15]
+Node [word=thatll, frequency=1]
+Node [word=thats, frequency=1]
+Node [word=the, frequency=49]
+Node [word=then, frequency=1]
+Node [word=thing, frequency=2]
+Node [word=third, frequency=1]
+Node [word=this, frequency=4]
+Node [word=those, frequency=1]
+Node [word=through, frequency=1]
+Node [word=to, frequency=17]
+Node [word=told, frequency=1]
+Node [word=top, frequency=1]
+Node [word=trunk, frequency=8]
+Node [word=trunkreadmetxt, frequency=1]
+Node [word=trunks, frequency=1]
+The results of the common ancestor is: 
+[Node [word=this, frequency=4], Node [word=to, frequency=17], Node [word=trunk, frequency=8]]
+Node [word=trunk, frequency=8]
+Printing the results of nodes that STARTWiTH: 'the'
+Node [word=the, frequency=49]
+Node [word=then, frequency=1]
